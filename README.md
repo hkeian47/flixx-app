@@ -4,9 +4,8 @@
 ## Overview
 This script interfaces with The Movie Database (TMDB) API to display popular movies and TV shows, detail views, and manage searches and pagination.
 
-## Configuration
-- **Global Object**: Stores current page, search parameters, and API configuration. 
-  - Replace `apiKey` with a valid TMDB key.
+
+<img width="1338" alt="Screenshot 2023-11-07 at 7 05 19 PM" src="https://github.com/hkeian47/flixx-app/assets/56659307/1cc7ab67-fe18-4ad3-bdf7-95fdb49ddc5e">
 
 ## Main Functions
 - **Display Functions**: 
